@@ -1,2 +1,2 @@
 # TodoWebApi
-Web API for a Todo List Web App
+Web API for a Todo List Web App for learning purposes.
